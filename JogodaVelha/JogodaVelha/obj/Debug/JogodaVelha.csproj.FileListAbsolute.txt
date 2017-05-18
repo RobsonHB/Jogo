@@ -1,0 +1,19 @@
+c:\users\robson\documents\visual studio 2015\Projects\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe.config
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.pdb
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.Form1.resources
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.Properties.Resources.resources
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csproj.GenerateResource.Cache
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.exe
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.pdb
+E:\executaveis liberados\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe.config
+E:\executaveis liberados\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.exe
+E:\executaveis liberados\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.pdb
+E:\executaveis liberados\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe
+E:\executaveis liberados\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.pdb
+E:\executaveis liberados\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.Form1.resources
+E:\executaveis liberados\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.Properties.Resources.resources
+E:\executaveis liberados\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csproj.GenerateResource.Cache
+E:\executaveis liberados\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.Form2.resources
